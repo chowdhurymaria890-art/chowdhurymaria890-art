@@ -1,16 +1,28 @@
-## Hi there 👋
+# Maria Chowdhury
 
-<!--
-**chowdhurymaria890-art/chowdhurymaria890-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer | Bangladesh
 
-Here are some ideas to get you started:
+I am an aspiring Web Developer with a strong interest in building modern, responsive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focused on strengthening my web development skills, exploring new technologies, and applying what I learn through practical projects.
+
+### Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Tools:** Git, GitHub, VS Code
+
+### Currently Focused On
+
+- Improving frontend development skills
+- Learning backend development with PHP
+- Understanding real-world web development workflows
+- Building practical projects to strengthen my skills
+
+### Career Objective
+
+My goal is to become a skilled Web Developer, create meaningful digital solutions, and continuously grow as a developer.
+
+---
+
+*Learning, building, and improving — one project at a time.*
